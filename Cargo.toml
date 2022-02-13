@@ -1,7 +1,9 @@
 [package]
-name = "rust-template"
+-  name = "rust-template"
++  name = "my-crossword"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>"]
+- authors = ["Near Inc <hello@near.org>"]
++ authors = ["NEAR Friend <friend@example.com>"]
 edition = "2018"
 
 [lib]
